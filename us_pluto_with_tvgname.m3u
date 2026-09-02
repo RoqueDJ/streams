@@ -247,10 +247,10 @@ https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 https://jmp2.uk/plu-68bb16ba3efb41cd971f3ce6.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dinos._SL500_FMpng_.png" tvg-name="Dinos 24/7" tvg-id="673bf05ddaad7f0008ac7a5c",Dinos 24/7
 https://jmp2.uk/plu-673bf05ddaad7f0008ac7a5c.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",Disney XD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-name="Discovery Turbo TV" tvg-id="",Discovery Turbo TV
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-name="Disney XD USA HD - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JIqJQQM.png" tvg-name="Doctor Who Classic (720p)" tvg-id="DoctorWhoClassic.us@US",Doctor Who Classic (720p)
 https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lMICupK.png" tvg-name="Dog the Bounty Hunter" tvg-id="DogtheBountyHunter.us@US",Dog the Bounty Hunter
