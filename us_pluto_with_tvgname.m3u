@@ -117,8 +117,8 @@ https://jmp2.uk/plu-60f5d389985a0c0007357304.m3u8
 https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 #EXTINF:-1 tvg-name="Car Chase" tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoSVG.svg",Car Chase
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us@East",Cartoon Network - CartoonNetwork.us@East
-https://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.us@East",Cartoon Network (East)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_41/3417992/casocerrado_logo.png" tvg-name="Casos de la Dra. Polo" tvg-id="60d393e5579a420007ee553c",Casos de la Dra. Polo
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoSVG.svg" tvg-name="CBS en español" tvg-id="668c5cb4f01dbe0008dd4082",CBS en español
