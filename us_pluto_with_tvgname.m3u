@@ -287,6 +287,8 @@ https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
 https://jmp2.uk/plu-65775af3b3801200084a3aa4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rtL5L81.png" tvg-name="Flicks of Fury" tvg-id="FlicksofFury.us@SD",Flicks of Fury
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V5vvuLK.png" tvg-name="Forensic Files" tvg-id="ForensicFiles.us@SD",Forensic Files
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/deeQqYZ.png" tvg-name="Forever Kids" tvg-id="ForeverKids.us@SD",Forever Kids
