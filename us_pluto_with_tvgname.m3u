@@ -649,6 +649,8 @@ https://jmp2.uk/plu-5f24662bebe0f0000767de32.m3u8
 https://jmp2.uk/plu-5f21e7b24744c60007c1f6fc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GT0Yi2T.png" tvg-name="Swerve Sports (720p)" tvg-id="SwerveSports.us@SD",Swerve Sports (720p)
 https://jmp2.uk/plu-683df56f5195c2a60a3f5559.m3u8
+#EXTINF:-1 tvg-name="SYFY" tvg-logo="https://i.imgur.com/4fMWhUE.png",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/tastemade_food._SL500_FMpng_.png" tvg-name="Tastemade Smokehouse (720p)" tvg-id="68509fe882d704acfc5bacd1",Tastemade Smokehouse (720p)
 https://jmp2.uk/plu-68509fe882d704acfc5bacd1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8o3ClCV.png" tvg-name="Teen Mom" tvg-id="TeenMom.us@SD",Teen Mom
