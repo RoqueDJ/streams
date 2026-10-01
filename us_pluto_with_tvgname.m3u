@@ -781,6 +781,8 @@ https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Vidas Extremas" tvg-id="673249afc7626f0008c7205d",Vidas Extremas
 https://jmp2.uk/plu-673249afc7626f0008c7205d.m3u8
+#EXTINF:-1 tvg-id="WAPA-TV4.1" tvg-name="WAPA-TV 4.1" tvg-logo="https://i.imgur.com/kqq7tD9.png",WAPA-TV 4.1
+https://wapa-updater.onrender.com/WAPA-TV-4-1.m3u8
 #EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/23dbea5b-8ece-4a54-95d6-1584f81b79d4/1b5c7d97-6ba5-4680-b5fb-ffda89a0942c?host=wbd-images.prod-vod.h264.io&partner=beamcom&w=4320" tvg-name="Warner Bros. TV Say Yes to the Dress (720p)" tvg-id="6532e8342cf13100083b404c",Warner Bros. TV Say Yes to the Dress (720p)
 https://jmp2.uk/plu-6532e8342cf13100083b404c.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="Warner Bros. TV Sweet Escapes" tvg-id="6532e7fa045c3d0008514ca7",Warner Bros. TV Sweet Escapes
