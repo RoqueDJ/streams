@@ -120,7 +120,7 @@ https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 #EXTINF:-1 tvg-name="Car Chase" tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoSVG.svg",Car Chase
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (East)
-http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
+https://wonvt.hostless.app/cartoon-network.m3u8
 #EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_41/3417992/casocerrado_logo.png" tvg-name="Casos de la Dra. Polo" tvg-id="60d393e5579a420007ee553c",Casos de la Dra. Polo
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoSVG.svg" tvg-name="CBS en español" tvg-id="668c5cb4f01dbe0008dd4082",CBS en español
@@ -461,10 +461,8 @@ https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png" tvg-name="NFL Channel (720p)" tvg-id="NFLChannel.us@SD",NFL Channel (720p)
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon",Nickelodeon (TEST CHANNEL FOR USER AGENT AND REFERRER)
-#EXTVLCOPT:http-referrer=https://tvnow.st/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cache0.wonvt.st/live/1ewxgzu023dos60vlh62k/master.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon",Nickelodeon East
+https://wonvt.hostless.app/nickelodeon.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoSVG.svg" tvg-name="Nick Jr. Pluto TV (720p)" tvg-id="NickJrPlutoTV.us@US",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoSVG.svg" tvg-name="Nickelodeon en español" tvg-id="NickenEspanol.us@SD",Nickelodeon en español
