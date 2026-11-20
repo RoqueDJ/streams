@@ -120,7 +120,7 @@ https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 #EXTINF:-1 tvg-name="Car Chase" tvg-id="65244c403fd33c0008ffff31" tvg-logo="https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoSVG.svg",Car Chase
 https://jmp2.uk/plu-65244c403fd33c0008ffff31.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network (East)
-https://wonvt.hostless.app/cartoon-network.m3u8
+http://89.187.179.148:826/1368/gXwiagaXda/1378
 #EXTINF:-1 tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/newscms/2020_41/3417992/casocerrado_logo.png" tvg-name="Casos de la Dra. Polo" tvg-id="60d393e5579a420007ee553c",Casos de la Dra. Polo
 https://jmp2.uk/plu-60d393e5579a420007ee553c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/668c5cb4f01dbe0008dd4082/colorLogoSVG.svg" tvg-name="CBS en español" tvg-id="668c5cb4f01dbe0008dd4082",CBS en español
@@ -448,7 +448,7 @@ https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/882kd90.png" tvg-name="Naturescape (720p)" tvg-id="5812bd9f249444e05d09cc4e",Naturescape (720p)
 https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",NBA TV
-https://cdn1.ayitistream.com/NBATV/index.m3u8
+http://89.187.179.148:826/1368/gXwiagaXda/29485
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/KNBC_2023.svg" tvg-name="NBC Los Angeles News (720p)" tvg-id="65790cda6e4f6a0008768764",NBC Los Angeles News (720p)
 https://jmp2.uk/plu-65790cda6e4f6a0008768764.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" tvg-name="NBC News NOW (720p)" tvg-id="NBCNewsNOW.us@SD",NBC News NOW (720p)
@@ -462,7 +462,7 @@ https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mPGtwAP.png" tvg-name="NFL Channel (720p)" tvg-id="NFLChannel.us@SD",NFL Channel (720p)
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon",Nickelodeon East
-https://wonvt.hostless.app/nickelodeon.m3u8
+http://89.187.179.148:826/1368/gXwiagaXda/1445
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoSVG.svg" tvg-name="Nick Jr. Pluto TV (720p)" tvg-id="NickJrPlutoTV.us@US",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoSVG.svg" tvg-name="Nickelodeon en español" tvg-id="NickenEspanol.us@SD",Nickelodeon en español
