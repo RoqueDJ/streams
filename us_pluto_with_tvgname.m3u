@@ -43,8 +43,8 @@ https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 https://jmp2.uk/plu-6887a8fd8e92b5e0a7244e88.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0BlxCa.png" tvg-name="ANIME x HIDIVE" tvg-id="AnimexHIDIVE.us@SD",ANIME x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
-#EXTINF:-1 tvg-logo="load.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png" tvg-name="Antena 3" tvg-id="Antena3.us@Nacional", Antena 3
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd
+#EXTINF:-1 tvg-logo="load.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Antena_3_2025_%28Naranja%29.svg/960px-Logo_Antena_3_2025_%28Naranja%29.svg.png" tvg-name="Antena 3" tvg-id="Antena3Internacional.es@SD", Antena 3 Internacional
+http://89.187.179.148:826/1368/gXwiagaXda/110901
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kkm7VqV.png" tvg-name="Antiques Road Trip" tvg-id="AntiquesRoadTrip.us@SD",Antiques Road Trip
 https://jmp2.uk/plu-615b8ec39e878900073f419a.m3u8
 #EXTINF:-1 tvg-name="Antiques Roadshow UK" tvg-id="AntiquesRoadshowUK.us@SD" tvg-logo="https://i.imgur.com/rKWLv48.png",Antiques Roadshow UK
