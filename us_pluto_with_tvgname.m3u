@@ -449,7 +449,7 @@ https://jmp2.uk/plu-6675c742ca74680008566b88.m3u8
 https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png",NBA TV
 http://89.187.179.148:826/1368/gXwiagaXda/29485
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/KNBC_2023.svg" tvg-name="NBC Los Angeles News (720p)" tvg-id="65790cda6e4f6a0008768764",NBC Los Angeles News (720p)
+#EXTINF:-1 tvg-logo="" tvg-name="NBC Los Angeles News (720p)" tvg-id="65790cda6e4f6a0008768764",NBC Los Angeles News (720p)
 https://jmp2.uk/plu-65790cda6e4f6a0008768764.m3u8
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/713ea11a46bcb609bc91c386c29076e6.png" tvg-name="NBC News NOW (720p)" tvg-id="NBCNewsNOW.us@SD",NBC News NOW (720p)
 https://jmp2.uk/plu-5df97894467dfa00091c873c.m3u8
