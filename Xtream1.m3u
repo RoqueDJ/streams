@@ -95,7 +95,7 @@ http://89.187.179.148:826/1368/gXwiagaXda/109116
 http://89.187.179.148:826/1368/gXwiagaXda/109114
 #EXTINF:-1 tvg-chno="48" tvg-name="BET SOUL (SD)" group-title="NETWORK TV" tvg-logo="http://primestreamstv.com/logos/BETSoul.png" tvg-id="betsoul.us",BET SOUL (SD)
 http://89.187.179.148:826/1368/gXwiagaXda/109115
-#EXTINF:-1 tvg-chno="49" tvg-name="BLACK NEWS CHANNEL" group-title="NETWORK TV" tvg-logo="https://i1.wp.com/eurweb.com/wp-content/uploads/2019/11/Black-News-Channel-logo1.jpg?resize=591%2C273&ssl=1" tvg-id="BNC.us",BLACK NEWS CHANNEL
+#EXTINF:-1 tvg-chno="49" tvg-name="BLACK NEWS CHANNEL" group-title="NETWORK TV" tvg-id="BNC.us",BLACK NEWS CHANNEL
 http://89.187.179.148:826/1368/gXwiagaXda/109085
 #EXTINF:-1 tvg-chno="50" tvg-name="BLOOMBERG TV" group-title="NETWORK TV" tvg-logo="http://primestreamstv.com/logos/BLOOMBERG.png" tvg-id="bloombergtv.us",BLOOMBERG TV
 http://89.187.179.148:826/1368/gXwiagaXda/30274
